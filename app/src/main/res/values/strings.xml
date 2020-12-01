@@ -1,0 +1,26 @@
+<resources>
+    //Main Controller Strings
+    <string name="app_name">WeightTracking</string>
+    <string name="titlePage">weightWatch</string>
+    <string name="username">Enter Username :</string>
+    <string name="password">Enter Password :</string>
+    <string name='loginButton'>Log In</string>
+    <string name="createUser">New? Click Here to Create a New Account!</string>
+    <string name="createUserTitle">Create New User</string>
+    <string name="createUserName">Create Username :</string>
+    <string name="createPassword">Create Password :</string>
+    <string name="reenterPasser">Re-Enter Password :</string>
+    <string name="passwordMatch">Passwords do not match!</string>
+    <string name="createUserButton">Create User</string>
+    <string name="logNewWeightButton">Log New Weight</string>
+    <string name="deleteWeightButton">Delete Entry</string>
+    <string name="editWeightButton">Edit Entry</string>
+    <string name="addGoalWeight">Add Goal Weight</string>
+    <string name="logWeight">Log Weight</string>
+    <string name="createGoal">Set Goal</string>
+
+    //Dialog Strings
+    <string name="editWeight">Please Enter New Weight</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>
